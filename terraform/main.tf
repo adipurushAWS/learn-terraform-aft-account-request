@@ -21,5 +21,5 @@ module "sandboxdev-aft" {
     change_requested_by = "sandboxdev-aft"
     change_reason       = "Agent based AFT account creation"
   }
-  account_customizations_name = "san"
+  account_customizations_name = "sandbox"
 }
